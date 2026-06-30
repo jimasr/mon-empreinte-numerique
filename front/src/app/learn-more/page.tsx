@@ -18,7 +18,7 @@ import {
 import DispositifCard from '../components/learn-more/card';
 
 export const metadata: Metadata = {
-    description: "En savoir plus sur l'empreinte numérique",
+    description: "En savoir plus sur l'empreinte numérique.",
 };
 
 export default async function Page() {
